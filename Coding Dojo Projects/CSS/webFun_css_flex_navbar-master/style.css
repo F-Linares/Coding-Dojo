@@ -1,0 +1,25 @@
+.Dojo {
+    background-color: cornflowerblue;
+    font-family:'Montserrat', sans-serif;
+    margin: 1em;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img {
+    height: 50px;
+    width: 70px;
+}
+h1 {
+    color:cornsilk;
+    font-size: 20px;
+}
+a:link {
+    text-decoration: none;
+}
+a{
+    margin: 5em;
+    color:cornsilk;
+}
